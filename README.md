@@ -1,4 +1,4 @@
-# 1. How to launch bot through Docker?
+# How to launch bot through Docker?
 - You need to create an image inside Docker using the command: \
 `docker build .`
 
@@ -17,7 +17,7 @@
 `docker stop <CONTAINER ID>`
 
 # How does the bot work?
--To start working with the bot, write command: `/start` \ 
--You can find out in detail how the bot works and what it uses through commands: `/help`, `/info` or by clicking the corresponding buttons. \
--The main task of the bot is to perform text transliteration
-*If you write any message that the bot cannot process, it will give a reminder where will be commands or you can press any button.*
+- To start working with the bot, write command: `/start`
+- You can find out in detail how the bot works and what it uses through commands: `/help`, `/info` or by clicking the corresponding buttons.
+- The main task of the bot is to perform text transliteration
+- *If you write any message that the bot cannot process, it will give a reminder where will be commands or you can press any button.*
