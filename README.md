@@ -5,7 +5,7 @@
 `docker build .`
 
 - Launch the bot using the command: \
-`sudo docker run -v /<PATH>/bot.log:/bot.log <IMAGE ID>` \
+`docker run -v /<PATH>/bot.log:/bot.log <IMAGE ID>` \
 *IMAGE ID: You can see it using the command: `docker images`*
 *PATH: Here you need to specify the full path where the bot itself is located and add /bot.log at the end, for example: `~/Downloads/Telegram-bot-Docker/latin_translator_bot/bot.log`*
 
