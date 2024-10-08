@@ -1,0 +1,53 @@
+2024-10-07 20:19:09 - aiogram.dispatcher - INFO - Start polling
+2024-10-07 20:19:09 - aiogram.dispatcher - INFO - Run polling for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-07 20:19:40 - root - INFO - OldMovieLover 809204462 запустил бота
+2024-10-07 20:19:41 - aiogram.event - INFO - Update id=638082599 is handled. Duration 383 ms by bot id=7766236680
+2024-10-07 20:19:56 - root - INFO - OldMovieLover 809204462: Что ты умеешь?
+2024-10-07 20:19:56 - aiogram.event - INFO - Update id=638082600 is handled. Duration 163 ms by bot id=7766236680
+2024-10-07 20:20:02 - root - INFO - OldMovieLover 809204462 по команде обратился в 'Помощь'
+2024-10-07 20:20:02 - aiogram.event - INFO - Update id=638082601 is handled. Duration 202 ms by bot id=7766236680
+2024-10-07 20:20:06 - root - INFO - OldMovieLover 809204462 нажал на кнопку 'Инфо'
+2024-10-07 20:20:06 - aiogram.event - INFO - Update id=638082602 is handled. Duration 182 ms by bot id=7766236680
+2024-10-07 20:20:10 - root - INFO - OldMovieLover 809204462 нажал на кнопку 'Транслитерация'
+2024-10-07 20:20:11 - aiogram.event - INFO - Update id=638082603 is handled. Duration 159 ms by bot id=7766236680
+2024-10-07 20:20:18 - root - INFO - OldMovieLover 809204462: Иван Иванов Иванович
+2024-10-07 20:20:18 - aiogram.event - INFO - Update id=638082604 is handled. Duration 193 ms by bot id=7766236680
+2024-10-07 20:20:31 - root - INFO - OldMovieLover 809204462 по команде обратился в 'Транслитерация'
+2024-10-07 20:20:31 - aiogram.event - INFO - Update id=638082605 is handled. Duration 91 ms by bot id=7766236680
+2024-10-07 20:21:04 - root - INFO - OldMovieLover 809204462: Привет, мне нужен загран. паспорт
+2024-10-07 20:21:04 - aiogram.event - INFO - Update id=638082606 is handled. Duration 196 ms by bot id=7766236680
+2024-10-07 20:21:25 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-07 20:21:25 - aiogram.dispatcher - INFO - Polling stopped for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-07 20:21:25 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-08 08:36:47 - aiogram.dispatcher - INFO - Start polling
+2024-10-08 08:36:47 - aiogram.dispatcher - INFO - Run polling for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-08 08:36:47 - root - INFO - OldMovieLover 809204462 запустил бота
+2024-10-08 08:36:47 - root - INFO - OldMovieLover 809204462 запустил бота
+2024-10-08 08:36:47 - root - INFO - OldMovieLover 809204462 запустил бота
+2024-10-08 08:36:47 - aiogram.event - INFO - Update id=638082615 is handled. Duration 217 ms by bot id=7766236680
+2024-10-08 08:36:47 - aiogram.event - INFO - Update id=638082616 is handled. Duration 217 ms by bot id=7766236680
+2024-10-08 08:36:47 - aiogram.event - INFO - Update id=638082613 is handled. Duration 220 ms by bot id=7766236680
+2024-10-08 08:37:15 - root - INFO - OldMovieLover 809204462 нажал на кнопку 'Инфо'
+2024-10-08 08:37:15 - aiogram.event - INFO - Update id=638082617 is handled. Duration 342 ms by bot id=7766236680
+2024-10-08 08:37:18 - root - INFO - OldMovieLover 809204462 нажал на кнопку 'Помощь'
+2024-10-08 08:37:18 - aiogram.event - INFO - Update id=638082618 is handled. Duration 153 ms by bot id=7766236680
+2024-10-08 08:37:20 - root - INFO - OldMovieLover 809204462 по команде обратился в 'Инфо'
+2024-10-08 08:37:20 - aiogram.event - INFO - Update id=638082619 is handled. Duration 74 ms by bot id=7766236680
+2024-10-08 08:37:22 - root - INFO - OldMovieLover 809204462 по команде обратился в 'Помощь'
+2024-10-08 08:37:22 - aiogram.event - INFO - Update id=638082620 is handled. Duration 126 ms by bot id=7766236680
+2024-10-08 08:37:25 - root - INFO - OldMovieLover 809204462 нажал на кнопку 'Транслитерация'
+2024-10-08 08:37:25 - aiogram.event - INFO - Update id=638082621 is handled. Duration 134 ms by bot id=7766236680
+2024-10-08 08:37:35 - root - INFO - OldMovieLover 809204462: Какой хороший день!
+2024-10-08 08:37:35 - aiogram.event - INFO - Update id=638082622 is handled. Duration 83 ms by bot id=7766236680
+2024-10-08 08:43:20 - aiogram.dispatcher - INFO - Start polling
+2024-10-08 08:43:20 - aiogram.dispatcher - INFO - Run polling for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-08 08:43:26 - root - INFO - OldMovieLover 809204462 запустил бота
+2024-10-08 08:43:26 - aiogram.event - INFO - Update id=638082625 is handled. Duration 216 ms by bot id=7766236680
+2024-10-08 08:44:04 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2024-10-08 08:44:04 - aiogram.dispatcher - INFO - Polling stopped for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-08 08:44:04 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-08 08:44:27 - aiogram.dispatcher - INFO - Start polling
+2024-10-08 08:44:27 - aiogram.dispatcher - INFO - Run polling for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-08 08:44:43 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2024-10-08 08:44:43 - aiogram.dispatcher - INFO - Polling stopped for bot @latin_translator_docker_bot id=7766236680 - 'Переводчик на латиницу'
+2024-10-08 08:44:43 - aiogram.dispatcher - INFO - Polling stopped
