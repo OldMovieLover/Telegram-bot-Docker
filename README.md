@@ -12,7 +12,7 @@
 - You can see all the logs in the file: \
 `bot.log`
 
-- To view running containers, also there you can copy <CONTAINER ID>, enter the command: \
+- To view running containers, also there you can copy *CONTAINER ID*, enter the command: \
 `docker ps`
 
 - To stop the bot, you need to enter the command: \
